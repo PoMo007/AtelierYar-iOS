@@ -1,0 +1,27 @@
+{
+  "id": "atelier-yar",
+  "name": "آتلیه‌یار | مدیریت حقوق آتلیه",
+  "short_name": "آتلیه‌یار",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "description": "مدیریت سبک حضور شبانه، حقوق و مساعده کارکنان آتلیه",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131b",
+  "theme_color": "#10131b",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
