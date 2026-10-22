@@ -1,15 +1,15 @@
 {
   "id": "atelier-yar",
-  "name": "آتلیه‌یار | مدیریت حقوق آتلیه",
+  "name": "آتلیه‌یار | مدیریت حقوق، حضور و برنامه‌ریزی",
   "short_name": "آتلیه‌یار",
   "lang": "fa-IR",
   "dir": "rtl",
-  "description": "مدیریت سبک حضور شبانه، حقوق و مساعده کارکنان آتلیه",
+  "description": "مدیریت حضور شبانه، برنامه‌ریزی، حقوق، پاداش و مساعده کارکنان آتلیه",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#10131b",
-  "theme_color": "#10131b",
+  "background_color": "#0b1018",
+  "theme_color": "#0b1018",
   "icons": [
     {
       "src": "assets/icon-192.png",
